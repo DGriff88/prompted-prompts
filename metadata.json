@@ -1,0 +1,5 @@
+{
+  "name": "Image Alchemist",
+  "description": "An AI-powered image editor. Use text prompts to transform your images with the magic of Gemini 2.5 Flash Image, inspired by ethereal and stained-glass aesthetics.",
+  "requestFramePermissions": []
+}
